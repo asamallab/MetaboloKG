@@ -6,7 +6,7 @@
 
 This repository is associated with the manuscript: <br>
 Harshit B Joshi, Anupama Vallizhath, Priyotosh Sil, Rahul Tiwari, Krishna Raghava Hebbar, Swati Sharma, Satish Rao, Basavaraj Hadapad, Areejit Samal*, Manjunath B Joshi*, Systems biology insights into protective effects of Arogyavardhini Rasa and Nishamalaki Rasayana in restoring hepatic lipid homeostasis in diet induced Type 2 Diabetes. <br>
-(# Equal contribution; * Corresponding authors)
+(* Corresponding authors)
 <br>
 
 ## Contributors
